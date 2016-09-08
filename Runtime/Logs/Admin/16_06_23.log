@@ -1,0 +1,51 @@
+[ 2016-06-23T09:40:28+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-23T09:40:29+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-23T09:40:29+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-23T10:07:58+08:00 ] 127.0.0.1 /index.php/Admin/Index/login
+ERR: 非法操作:login
+
+[ 2016-06-23T10:08:05+08:00 ] 127.0.0.1 /index.php/Admin/User/login
+ERR: 非法操作:login
+
+[ 2016-06-23T10:08:10+08:00 ] 127.0.0.1 /index.php/Admin/User/login
+ERR: 非法操作:login
+
+[ 2016-06-23T10:09:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-23T10:09:59+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-23T10:10:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-23T10:10:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-23T10:11:17+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-23T10:11:17+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-23T10:11:17+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-23T10:11:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-23T10:11:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-23T10:12:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-23T10:12:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+

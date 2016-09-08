@@ -1,0 +1,296 @@
+[ 2016-06-24T11:38:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T11:38:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T11:38:32+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T11:38:32+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T11:39:04+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T11:39:04+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T11:39:04+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T11:39:30+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T11:39:30+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T11:39:30+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T11:52:31+08:00 ] 127.0.0.1 /index.php/Admin/Doc/edit/id/1
+ERR: 模板不存在:D:/wamp/tp/Admin/View/Doc/edit.html
+
+[ 2016-06-24T11:55:40+08:00 ] 127.0.0.1 /index.php/Admin/Doc/edit/id/1
+ERR: 模板不存在:D:/wamp/tp/Admin/View/Doc/edit.html
+
+[ 2016-06-24T11:59:15+08:00 ] 127.0.0.1 /index.php/Admin/Doc/editOk
+ERR: 非法操作:editOk
+
+[ 2016-06-24T13:09:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T13:09:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T13:09:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T15:34:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T15:34:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T15:34:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T15:34:38+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T15:34:38+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T15:34:38+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T16:39:41+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T16:39:41+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T17:50:42+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T17:50:42+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T18:09:32+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T18:09:32+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T18:27:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T18:27:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T18:29:27+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T18:29:27+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T18:48:18+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T18:48:18+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T18:48:18+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T18:52:24+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/addOk
+ERR: 1364:Field 'title' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tp_knowledge` (`addtime`) VALUES ('1466765544')
+
+[ 2016-06-24T19:03:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T19:03:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T19:04:13+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T19:04:13+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T19:04:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T19:04:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T19:05:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T19:05:49+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T19:10:38+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/edit/id/[object%20Object]
+ERR: 非法操作:edit
+
+[ 2016-06-24T19:14:51+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/edit/id/[object%20Object]
+ERR: 模板不存在:D:/wamp/tp/Admin/View/Knowledge/edit.html
+
+[ 2016-06-24T19:16:54+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/editOk
+ERR: 非法操作:editOk
+
+[ 2016-06-24T19:29:17+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T19:29:17+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T20:01:15+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T20:01:15+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T20:07:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T20:07:47+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T20:08:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T20:08:19+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T20:09:54+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T20:09:54+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T20:09:56+08:00 ] 127.0.0.1 /index.php/Admin/Email/send
+ERR: 无法加载控制器:Email
+
+[ 2016-06-24T20:09:56+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendbox
+ERR: 无法加载控制器:Email
+
+[ 2016-06-24T20:09:57+08:00 ] 127.0.0.1 /index.php/Admin/Email/recbox
+ERR: 无法加载控制器:Email
+
+[ 2016-06-24T20:11:45+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T20:11:45+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T20:11:52+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendbox
+ERR: 非法操作:sendbox
+
+[ 2016-06-24T20:11:53+08:00 ] 127.0.0.1 /index.php/Admin/Email/recbox
+ERR: 非法操作:recbox
+
+[ 2016-06-24T20:12:42+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T20:12:42+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T20:13:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T20:13:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T20:14:27+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T20:14:27+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T22:30:36+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T22:30:36+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T22:30:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T22:30:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T22:48:48+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T22:48:48+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T22:49:17+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendOk
+ERR: 1364:Field 'from_id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tp_email` (`to_id`,`title`,`content`,`file`,`hasfile`,`filename`) VALUES ('4','hello','你好啊','/Public/Upload/2016-06-24/576d486d9872b.jpg','1','576d486d9872b.jpg')
+
+[ 2016-06-24T22:51:10+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendOk
+ERR: 1364:Field 'from_id' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tp_email` (`to_id`,`title`,`content`,`file`,`hasfile`,`filename`) VALUES ('4','hello','你好啊','/Public/Upload/2016-06-24/576d48de5905b.jpg','1','576d48de5905b.jpg')
+
+[ 2016-06-24T22:56:08+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendOk
+ERR: 1048:Column 'from_id' cannot be null
+ [ SQL语句 ] : INSERT INTO `tp_email` (`to_id`,`title`,`content`,`file`,`hasfile`,`filename`,`from_id`,`addtime`) VALUES ('4','hello','你好啊','/Public/Upload/2016-06-24/576d4a08a42e7.jpg','1','576d4a08a42e7.jpg',NULL,'1466780168')
+
+[ 2016-06-24T22:56:37+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendOk
+ERR: 1048:Column 'from_id' cannot be null
+ [ SQL语句 ] : INSERT INTO `tp_email` (`to_id`,`title`,`content`,`file`,`hasfile`,`filename`,`from_id`,`addtime`) VALUES ('4','你好','你好啊','/Public/Upload/2016-06-24/576d4a254b612.jpg','1','576d4a254b612.jpg',NULL,'1466780197')
+
+[ 2016-06-24T23:01:11+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T23:01:11+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T23:23:36+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T23:23:36+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T23:25:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T23:25:43+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T23:26:29+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T23:26:29+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T23:27:09+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T23:27:09+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T23:28:15+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T23:28:15+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T23:28:15+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T23:36:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T23:36:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+
+[ 2016-06-24T23:37:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/jquery.js
+ERR: 非法操作:js
+
+[ 2016-06-24T23:37:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/js/common.js
+ERR: 非法操作:js
+

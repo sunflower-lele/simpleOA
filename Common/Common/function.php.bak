@@ -1,0 +1,11 @@
+<?php 
+//自定义的函数库文件
+
+//字符串转换函数
+//
+function gbk2utf8() {
+	echo 'gbk2utf8';
+}
+
+
+ ?>

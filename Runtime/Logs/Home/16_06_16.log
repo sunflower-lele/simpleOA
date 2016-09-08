@@ -1,0 +1,48 @@
+[ 2016-06-16T14:13:37+08:00 ] 127.0.0.1 /index.php/Home/Test/test7
+ERR: 模板不存在:D:/wamp/tp/Home/View/Test/test7.html
+
+[ 2016-06-16T14:13:39+08:00 ] 127.0.0.1 /index.php/Home/Test/test7
+ERR: 模板不存在:D:/wamp/tp/Home/View/Test/test7.html
+
+[ 2016-06-16T17:23:04+08:00 ] 127.0.0.1 /index.php/Home/Test/test7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000148s ]
+NOTIC: [8] Undefined variable: str D:\wamp\tp\Runtime\Cache\Home\5d0ef38fc4627035fec4a14cd67269d5.php 第 14 行.
+NOTIC: [8] Undefined variable: arr1 D:\wamp\tp\Runtime\Cache\Home\5d0ef38fc4627035fec4a14cd67269d5.php 第 16 行.
+NOTIC: [8] Undefined variable: arr1 D:\wamp\tp\Runtime\Cache\Home\5d0ef38fc4627035fec4a14cd67269d5.php 第 16 行.
+NOTIC: [8] Undefined variable: arr1 D:\wamp\tp\Runtime\Cache\Home\5d0ef38fc4627035fec4a14cd67269d5.php 第 16 行.
+NOTIC: [8] Undefined variable: arr1 D:\wamp\tp\Runtime\Cache\Home\5d0ef38fc4627035fec4a14cd67269d5.php 第 16 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006143s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006198s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000477s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000625s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000683s ]
+
+[ 2016-06-16T17:31:46+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000389s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000444s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000307s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000556s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000608s ]
+

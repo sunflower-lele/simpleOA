@@ -1,0 +1,192 @@
+[ 2016-08-30T00:10:26+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003211s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:10:29+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004309s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:10:32+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002593s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:10:35+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002496s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:10:38+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002523s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:10:41+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001309s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002414s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:10:44+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001317s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002450s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:10:47+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002447s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:10:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002410s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:10:53+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002520s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:10:56+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001305s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002411s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:10:59+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001499s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:11:02+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002382s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:11:05+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004532s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:11:08+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002355s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:11:11+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000814s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001507s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:11:14+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003660s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:11:17+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002373s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:11:20+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001595s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:11:23+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002391s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:11:26+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002553s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:11:29+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000707s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:11:32+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001289s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002371s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:11:35+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002389s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:11:38+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002493s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:11:41+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002379s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:11:44+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002424s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:11:47+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001639s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002910s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:11:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002488s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:11:53+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002370s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:11:56+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001299s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002382s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
+[ 2016-08-30T00:11:59+08:00 ] 127.0.0.1 /index.php/Admin/Email/getMesCount.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002399s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'db_oa'
+
